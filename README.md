@@ -1,4 +1,4 @@
-# ibm-assignment-pipelines
+# IBM Assignments - DevOps, CI/CD Pipelines
 
 ## Components
 
