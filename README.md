@@ -30,8 +30,11 @@
 
 1. From the Jenkins Dashboard, select **"New Item"** from the sidebar
 2. Enter the item name and select **"Pipeline"**. Click **"OK"** to confirm
+   
 ![image](https://github.com/user-attachments/assets/7f532d3f-49be-4e7a-a5ba-c782a4746914)
+
 4. From the **"Configure"** page, select **"Advanced Project Options"** from the sidebar. Under the **"Pipeline"** tab, copy the content from the Jenkinsfile into the script box
+   
 ![image](https://github.com/user-attachments/assets/3eabb040-97e7-4c74-a737-bc34bc6ac0ef)
 
 ## Adding Docker Hub Credentials
@@ -43,9 +46,12 @@
 5. Copy the displayed access token
 6. Navigate to the **"Home"** page of the Jenkins server. Under the sidebar, select **"Manage Jenkins"**
 7. Select **"Credentials"**. Under the **"Credentials"** tab, select **"System"**
+   
 ![image](https://github.com/user-attachments/assets/cd324c0c-07c4-4c6a-98a6-281bdf1a1ea9)
-9. Select **"Global credentials (unrestricted)"**
-10. Enter your Docker Hub username into the **"Username"** field and paste the newly created access token into the **"Password"** field. Save the credential
+
+10. Select **"Global credentials (unrestricted)"**
+11. Enter your Docker Hub username into the **"Username"** field and paste the newly created access token into the **"Password"** field. Save the credential
+    
 ![image](https://github.com/user-attachments/assets/49b015a0-d5ab-4cd1-9e84-c96ed7cddd1c)
 
 
@@ -54,5 +60,6 @@
 1. From the Jenkin Dashboard, select the newly created Pipeline
 2. From the sidebar, select **"Build Now"**
 3. Monitor build status from the **"Build History"** tab
+   
 ![image](https://github.com/user-attachments/assets/3f0f7692-6733-42af-b7f9-83b93b43fd41)
 
