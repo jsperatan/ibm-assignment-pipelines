@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c1b840bf-81e1-446f-96a4-29ed547e8fbd)# ibm-assignment-pipelines
+# ibm-assignment-pipelines
 
 ## Components
 
