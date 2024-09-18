@@ -34,6 +34,7 @@
 ![image](https://github.com/user-attachments/assets/7f532d3f-49be-4e7a-a5ba-c782a4746914)
 
 4. From the **"Configure"** page, select **"Advanced Project Options"** from the sidebar. Under the **"Pipeline"** tab, copy the content from the Jenkinsfile into the script box
+   - While the recommended approach would be to reference the Jenkinsfile instead of inputing the content within the script field, I opted for this approach due to the simplicity of the pipeline configuration. May improve this in future if there is a need to
    
 ![image](https://github.com/user-attachments/assets/3eabb040-97e7-4c74-a737-bc34bc6ac0ef)
 
